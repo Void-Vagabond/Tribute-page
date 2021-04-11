@@ -1,2 +1,2 @@
 # tribute-page
-Project #1 for freecodecamp's Responsive Web Design durriculum.
+Project #1 for freecodecamp's Responsive Web Design curriculum.
